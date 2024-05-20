@@ -1,0 +1,53 @@
+#details {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 90%;
+    border-radius: 8px; /* Add border-radius here if desired */
+}
+
+#details .image {
+    text-align: center;
+}
+
+#details img {
+    height: auto;
+    max-width: 80%;
+}
+
+#details .info {
+    padding: 10px;
+}
+
+#details .border-color-fire {
+    border: 2px solid #d6612f;
+    border-radius: 5%;
+}
+
+.border-color-water {
+    border: 2px solid #5b8097;
+    border-radius: 5%;
+}
+
+.border-color-electric {
+    border: 2px solid #e3e379;
+    border-radius: 5%;
+}
+
+.border-color-grass {
+    border: 2px solid #7fc27f;
+}
+
+.border-color-normal {
+    border: 2px solid #b3b391;
+}
+
+.border-color-bug {
+    border: 2px solid #b89045;
+}
+
+.border-color-poison {
+    border: 2px solid #784078;
+}
+

@@ -1,0 +1,15 @@
+1;10;8;Kicsi
+2;12;10;Nagy
+3;8;6;VIP
+4;9;7;Kicsi
+5;11;9;Nagy
+6;7;5;VIP
+7;10;8;Kicsi
+8;12;10;Nagy
+9;8;6;VIP
+10;9;7;Kicsi
+11;11;9;Nagy
+12;7;5;VIP
+13;10;8;Kicsi
+14;12;10;Nagy
+15;8;6;VIP

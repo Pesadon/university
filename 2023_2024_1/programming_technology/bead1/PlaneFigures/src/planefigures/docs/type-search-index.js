@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"planefigures","l":"Circle"},{"p":"planefigures","l":"Database"},{"p":"planefigures","l":"Hexagon"},{"p":"planefigures","l":"PlaneFigure"},{"p":"planefigures","l":"PlaneFigures"},{"p":"planefigures","l":"Square"},{"p":"planefigures","l":"Triangle"}]

@@ -1,9 +1,0 @@
-@media print {
-    header, nav, video, footer {
-        display: none;
-    }
-
-    img {
-        max-width: 25% !important;
-    }
-}

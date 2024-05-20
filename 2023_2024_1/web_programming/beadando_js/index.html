@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A térképész</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="game-container">
+            <h1>Burgonya térkép</h1>
+            <div id="grid-container" onclick="insertCurrent(event)"></div>
+        </div>
+        <div class="rightside">
+            <div id="season-container">
+                <div class="season" id="spring">
+                    <p>Tavasz<br><span id="springpoint">0</span> pont</p>
+                </div>
+                <div class="season" id="summer">
+                    <p>Nyár<br><span id="summerpoint">0</span> pont</p>
+                </div>
+                <div class="season" id="autumn">
+                    <p>Ősz<br><span id="autumnpoint">0</span> pont</p>
+                </div>
+                <div class="season" id="winter">
+                    <p>Tél<br><span id="winterpoint">0</span> pont</p>
+                </div>
+                <br>
+                <p id="sump">Összesen: <span id="sum">0</span> pont</p>
+            </div>
+
+            <div>
+                <p>Jelenlegi évszak: <span id="currentseason">Tavasz</span></p>
+                <p>Jelenlegi küldetések: <span id="currentmission1"></span>, <span id="currentmission2"></span></p>
+                <p>Küldetés pontszámok: az erdő széle - <span id="erdoszelepoint">0</span> pont, Álmos-völgy - <span id="almosvolgypoint">0</span> pont, krumpliöntözés - <span id="krumpliontozespoint">0</span> pont, határvidék - <span id="hatarvidekpoint">0</span> pont</p>
+                <hr>
+            </div>
+            <div id="missions">
+                <table>
+                    <tr><td><img src="img/erdoszele.png" class="missionimg" id="erdoszele"></td><td><img src="img/almosvolgy.png" class="missionimg" id="almosvolgy"></td></tr>
+                    <tr><td><img src="img/krumpliontozes.png" class="missionimg" id="krumpliontozes"></td><td><img src="img/hatarvidek.png" class="missionimg" id="hatarvidek"></td></tr>
+                </table>
+            </div>
+            <div>
+                <p>Évszakból hátralevő idő: <span id="timeleft">7</span>/7</p>
+            </div>
+            <hr>
+            <div id="tobeplaced">
+                <div id="placedactions">
+                    <p id="itbp">Lehelyezendő elem (<span id="requiredtime"></span>🕒):</p>
+                    <button onclick="rotateCurrent()">Forgatás</button>
+                    <button onclick="mirrorCurrent()">Tükrözés</button>
+                    <button onclick="skip()">Átugrás</button>
+                </div>
+                <div id="placeditem">
+                </div>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </div>    
+</body>
+</html>

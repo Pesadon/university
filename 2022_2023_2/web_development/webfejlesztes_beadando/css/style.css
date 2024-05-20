@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo {
+    width:8%;
+}
+
+header {
+    background-color: white;
+}
+
+#navbar {
+    font-size: 120%;
+    position: sticky;
+    top: 0rem;
+    z-index: 1000;
+    width: 100%;
+}
+
+#content {
+    background-color: white;
+}
+
+p {
+    font-size: 120%;
+}
+
+#openai {
+    float: right;
+    width: 75%;
+}
+
+video {
+    float: right;
+}
+
+span {
+    color: red;
+}
+
+#footer {
+    background-color: #f8f9fa;
+}
+
+.rejtett {
+    position:absolute; left:-9999px;
+}
+
+nav#tartalomraugras a {
+    position:absolute; left:-9999px
+}
+
+nav#tartalomraugras a:focus {
+    position:static; background-color:white
+}
+
+a:visited:not(.nav-link) {
+    color: #8b61c2;
+}

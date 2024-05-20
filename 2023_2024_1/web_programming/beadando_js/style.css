@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+body {
+    background-image: url("img/bg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-size: 120%;
+}
+
+.container {
+    display: flex;
+}
+
+.game-container {
+    margin: 5%;
+    display: inline-block;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: repeat(11, 40px);
+    grid-template-rows: repeat(11, 40px);
+    gap: 1%;
+    border-collapse: collapse;
+}
+
+.grid-cell {
+    width: 100%;
+    height: 100%;
+    border-radius:15%;
+    border:5px solid #fff;
+    background-size: cover;
+}
+
+.rightside {
+    width: 100%;
+}
+
+#season-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.season {
+    margin: 1%;
+    margin-top:5%;
+    margin-bottom: 0%;
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    border-radius:10%;
+}
+
+#spring {
+    background-color: #69be6c;
+    border: 5px solid #338a37;
+}
+
+#summer {
+    background-color: #fee874;
+    border:5px solid #dcbb0b;
+}
+
+#autumn {
+    background-color: #eabd94;
+    border: 5px solid #6d4015;
+}
+
+#winter {
+    background-color: #59d2ec;
+    border: 5px solid #3390a5;
+}
+
+#sump {
+    width:100%;
+    text-align: center;
+}
+
+#missions {
+    width:100%;
+}
+
+img {
+    width:100%;
+}
+
+.missionimg {
+    border-radius: 10%;
+}
+
+td {
+    padding: 1rem;
+}
+
+table {
+    width:75%;
+}
+
+#tobeplaced {
+    width: 80%;
+    display:flex;
+}
+
+#placedactions {
+    width:50%;
+    justify-content: end;
+}
+
+#placeditem {
+    background-color: white;
+    border-radius: 10%;
+    display:grid;
+    grid-template-columns: repeat(3,40px);
+    grid-template-rows: repeat(3,40px);
+    gap:1%;
+}
+
+#itbp {
+    text-align: left;
+}
+
+.tbpCell {
+    width:100%;
+    height:100%;
+    background-size:cover;
+    margin: 5%;
+}
+
+button {
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 4px;
+    font-family: 'Merriweather', serif;
+    color: black;
+    background-color: #e7ebec;
+}
+  
+button:hover {
+    background-color: #2980b9;
+    color: white;
+}
+  
+button:active {
+    background-color: #1f618d;
+}

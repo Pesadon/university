@@ -1,0 +1,15 @@
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.csproj.AssemblyReference.cache
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.AssemblyInfoInputs.cache
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.AssemblyInfo.cs
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.csproj.CoreCompileInputs.cache
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\bin\Debug\net7.0\Filmszinhaz.exe
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\bin\Debug\net7.0\Filmszinhaz.deps.json
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\bin\Debug\net7.0\Filmszinhaz.runtimeconfig.json
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\bin\Debug\net7.0\Filmszinhaz.dll
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\bin\Debug\net7.0\Filmszinhaz.pdb
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.dll
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\refint\Filmszinhaz.dll
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.pdb
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\Filmszinhaz.genruntimeconfig.cache
+D:\saját\egyetem\22_23_2\oep\nagybeadando\Filmszinhaz\Filmszinhaz\obj\Debug\net7.0\ref\Filmszinhaz.dll
