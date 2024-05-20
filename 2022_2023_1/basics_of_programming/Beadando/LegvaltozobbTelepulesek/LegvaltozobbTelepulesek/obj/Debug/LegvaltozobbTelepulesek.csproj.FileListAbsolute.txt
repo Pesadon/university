@@ -1,0 +1,7 @@
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\bin\Debug\LegvaltozobbTelepulesek.exe.config
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\bin\Debug\LegvaltozobbTelepulesek.exe
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\bin\Debug\LegvaltozobbTelepulesek.pdb
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\obj\Debug\LegvaltozobbTelepulesek.csproj.AssemblyReference.cache
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\obj\Debug\LegvaltozobbTelepulesek.csproj.CoreCompileInputs.cache
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\obj\Debug\LegvaltozobbTelepulesek.exe
+D:\saját\egyetem\progalap\Beadando\LegvaltozobbTelepulesek\LegvaltozobbTelepulesek\obj\Debug\LegvaltozobbTelepulesek.pdb
